@@ -16,7 +16,7 @@
         app:layout_constraintBottom_toTopOf="@+id/spin_kit"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/mengenalbuah" />
+        app:srcCompat="@drawable/mengenalbuah_dikecilin" />
 
     <com.github.ybq.android.spinkit.SpinKitView xmlns:app="http://schemas.android.com/apk/res-auto"
         android:id="@+id/spin_kit"
